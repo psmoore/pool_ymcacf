@@ -130,9 +130,9 @@ QUESTIONS = """<section class="wrap">
     <li>
       <div class="q"><span class="tag ours">Ours</span>Pool hours shown as lap swim</div>
       <div class="a">Twelve location pages give pool hours, not lap swim times, and none say which lanes
-      are held for laps while lessons and classes run. We show the pool hours as lap swim in a
-      &ldquo;Lap Lanes&rdquo; part of each pool, and lessons and classes in a &ldquo;Program Area&rdquo;
-      beside it. Roper and Winter Park publish lap swim itself, and those times are used as given.</div>
+      are held for laps while lessons and classes run. We show the pool hours as lap swim in the
+      pool, and lessons and classes on top of it in the same pool, because no Y says how the lanes are shared.
+      Roper and Winter Park publish lap swim itself, and those times are used as given.</div>
     </li>
     <li>
       <div class="q"><span class="tag gap">Gap</span>Swim team practice times</div>

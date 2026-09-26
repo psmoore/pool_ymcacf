@@ -37,9 +37,8 @@ three early-learning centers.
 
 ## What is ours
 
-- **Lap Lanes and Program Area.** No Y says which lanes lap swim keeps while lessons and classes run, so
-  each main pool is split in two: pool hours show as lap swim in *Lap Lanes*, lessons and classes in
-  *Program Area*. Downtown's indoor pool also has an *Open Swim Area* for its recreational swim.
+- **Everything is booked on the pool itself.** No Y says which lanes lap swim keeps while lessons and classes
+  run, so pool hours show as lap swim on the pool and lessons and classes overlap it on the same pool.
 - **Pool hours as lap swim** at twelve Ys. Roper and Winter Park publish lap swim on their class
   schedules, and those times are used instead (open-ended; Roper's feed ends Oct 30 – Nov 4).
 - **Lessons grouped by time slot.** Levels that start at the same time at the same Y are one calendar
