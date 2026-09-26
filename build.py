@@ -40,7 +40,7 @@ def cal(key, title, cls="", caption=""):
     token = EMBED[key]
     tail = f" &nbsp;&mdash;&nbsp; {caption}" if caption else ""
     return f"""  <div class="cal {cls}">
-    <iframe src="https://www.poolrelay.com/embed/{token}"
+    <iframe width="100%" height="640" src="https://www.poolrelay.com/embed/{token}"
             title="{title}" loading="lazy"></iframe>
   </div>
   <p class="capt">Live from Pool Relay &middot;
